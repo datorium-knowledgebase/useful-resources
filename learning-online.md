@@ -1,7 +1,13 @@
-*This text will be italic*
-_This will also be italic_
+**Here you can find the most useful recourses to learin coding, compiled by Datorium communiy**
 
-**This text will be bold**
-__This will also be bold__
+**How to choose your programming language**
 
-_You **can** combine them_
+**Python**
+
+**.NET C#**
+
+**JavaScript/TypeScript**
+
+**Front-end**
+
+**Back-end**
